@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="./egerLogo.png"
-         height="130">
+    <img width="100"src="https://vuejs.org/images/logo.png">
 </p>
 <p align="center">
     <a href="https://github.com/weiruibo/vuxweather/network">
@@ -19,7 +18,7 @@
 </p>
 
 
-https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
+<img src="https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg">
 
 # vuxweather
 
