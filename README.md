@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/weiruibo/vuxweather.svg)](https://github.com/weiruibo/vuxweather/issues)
 [![GitHub forks](https://img.shields.io/github/forks/weiruibo/vuxweather.svg)](https://github.com/weiruibo/vuxweather/network)
 
-
+https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg
 
 # vuxweather
 
