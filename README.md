@@ -1,3 +1,23 @@
+<p align="center">
+    <img src="./egerLogo.png"
+         height="130">
+</p>
+<p align="center">
+    <a href="https://github.com/weiruibo/vuxweather/network">
+        <img src="https://img.shields.io/github/forks/weiruibo/vuxweather.svg"
+             alt="forks">
+    </a>
+    <a href="(https://github.com/weiruibo/vuxweather/issues">
+        <img src="https://img.shields.io/github/issues/weiruibo/vuxweather.svg"
+             alt="issues">
+    </a>
+    <a href="https://img.shields.io/github/stars/weiruibo/vuxweather.svg">
+        <img src="https://github.com/weiruibo/vuxweather/stargazers"
+             alt="stars">
+    </a>
+  
+</p>
+
 [![GitHub stars](https://img.shields.io/github/stars/weiruibo/vuxweather.svg)](https://github.com/weiruibo/vuxweather/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/weiruibo/vuxweather.svg)](https://github.com/weiruibo/vuxweather/issues)
 [![GitHub forks](https://img.shields.io/github/forks/weiruibo/vuxweather.svg)](https://github.com/weiruibo/vuxweather/network)
