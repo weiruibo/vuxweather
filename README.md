@@ -10,8 +10,8 @@
         <img src="https://img.shields.io/github/issues/weiruibo/vuxweather.svg"
              alt="issues">
     </a>
-    <a href="https://img.shields.io/github/stars/weiruibo/vuxweather.svg">
-        <img src="https://github.com/weiruibo/vuxweather/stargazers"
+    <a href="https://github.com/weiruibo/vuxweather/stargazers">
+        <img src="https://img.shields.io/github/stars/weiruibo/vuxweather.svg"
              alt="stars">
     </a>
   
